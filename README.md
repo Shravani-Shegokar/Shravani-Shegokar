@@ -1,4 +1,4 @@
-# 👋 Hello World!
+
 I'm **Shravani Shegokar**, a passionate developer exploring the world of **Web Development, Machine Learning, and Networking!** 🚀  
 I love building projects that solve real-world problems and learning new technologies every day! 🌟
 
@@ -11,8 +11,7 @@ I love building projects that solve real-world problems and learning new technol
 ![](https://github-readme-stats.vercel.app/api?username=Shravani-Shegokar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shravani-Shegokar&theme=dark&hide_border=false)<br/>
 
-# 🎨 Contribution Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shravani-Shegokar&theme=github-compact)
+
 
 
 
